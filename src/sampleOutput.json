@@ -1,0 +1,1308 @@
+{
+    "status": "ok",
+    "totalResults": 213,
+"articles": [
+{
+"source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "Android 15 may bring back a long-lost lock screen feature",
+            "description": "Code found within the latest Android 14 QPR2 Beta 3 enables lock screen widgets, with a bit of work. They might just make a comeback in Android 15.",
+            "url": "https://www.androidcentral.com/apps-software/android-15-lock-screen-widgets-spotted",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NeW7yGLqNLaYFmz8oh4bci-1200-80.jpg",
+            "publishedAt": "2024-01-12T01:37:49Z",
+            "content": "<ul><li>Android 15 could bring support for lock screen widgets, based on code found in Android 14 QPR2 Beta 3.</li><li>Android did support lock screen widgets back in the day, but support ended with … [+2692 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Clarifies How Many Items Can Be Tracked in Find My",
+            "description": "Apple today confirmed that up to 32 items can be added to the Find My app on the iPhone and iPad, up from a previous limit of 16.\n\n\n\n\n\nApple revealed this information in a support document updated today:You can add up to 32 items in Find My. In addition to Ai…",
+            "url": "https://www.macrumors.com/2024/01/11/apple-clarifies-find-my-items-limit/",
+            "urlToImage": "https://images.macrumors.com/t/aWqS49utk9k7iHWTEsIyDyIl1Xs=/2250x/article-new/2021/08/Find-My-AirPods-Feature.jpg",
+            "publishedAt": "2024-01-12T03:25:42Z",
+            "content": "Apple today confirmed that up to 32 items can be added to the Find My app on the iPhone and iPad, up from a previous limit of 16.\r\nApple revealed this information in a support document updated today:… [+755 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "CES 2024: Satechi Debuts Thunderbolt 4 Hub, 145W USB-C Charger and More",
+            "description": "Alongside Qi2 wireless charging stands, Apple accessory maker Satechi this week unveiled new hubs and charger options for Apple's Mac lineup.\n\n\n\n\n\nThe upgraded Stand & Hub for Mac mini and Mac Studio fits under one of Apple's slim desktop machines, and it inc…",
+            "url": "https://www.macrumors.com/2024/01/11/ces-2024-satechi-thunderbolt-hub/",
+            "urlToImage": "https://images.macrumors.com/t/BIQqp4_ZyRYQDcfFpcBu0I7DQMQ=/2000x/article-new/2024/01/satechi-145w-travel-charger.jpg",
+            "publishedAt": "2024-01-12T00:49:27Z",
+            "content": "Alongside Qi2 wireless charging stands, Apple accessory maker Satechi this week unveiled new hubs and charger options for Apple's Mac lineup.\r\nThe upgraded Stand &amp; Hub for Mac mini and Mac Studio… [+1332 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Trevor Mogg",
+            "title": "Apple CEO Tim Cook’s earnings fell by $36 million in 2023",
+            "description": "Apple is paying its top team huge amounts, hardly a surprise considering the company's success at getting people to buy its devices and sign up to its services.",
+            "url": "https://www.digitaltrends.com/news/apple-ceo-tim-cook-earned-36m-less-in-2023/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/09/tim-cook-apple-ceo-2021-fall-event.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-01-12T02:00:18Z",
+            "content": "Apple / Apple\r\nApple compensated its CEO to the tune of $63.2 million in 2023, down from $99.4 million a year earlier.\r\nThe data was revealed in an Apple proxy statement released on Thursday.\r\nCook’s… [+1585 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Hyperverse: Krypto-Manager ist nur ein ahnungsloser englischer Auswanderer",
+            "description": "Steven Reece Lewis ist eine lediglich für den Kryptobetrug erfundene Figur. Der bezahlte Schauspieler entpuppt sich als Arbeit suchender Engländer in Thailand.",
+            "url": "https://www.heise.de/news/Hyperverse-Krypto-Manager-ist-nur-ein-ahnungsloser-englischer-Auswanderer-9595223.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/2/4/9/8/2/Reece_Lewis-53d4b3b48cfa0e09.webp",
+            "publishedAt": "2024-01-12T03:31:00Z",
+            "content": "Inhaltsverzeichnis\r\nDas Mysterium dauerte nur etwa eine Woche. Jetzt wurde Steven Reece Lewis, der als Hyperverse-Chef einem Krypto-Schneeballsystem vorstand, gefunden. Es handelt sich wie erwartet u… [+3533 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple Store app to scan user’s face to determine best Apple Vision Pro size",
+            "description": "Apple Vision Pro will hit stores in the US in a few weeks, but Apple is yet to reveal details about the purchasing process, available models, and customization options. However, a new report has revealed that customers will be able to use the Apple Store app …",
+            "url": "https://9to5mac.com/2024/01/11/apple-store-app-vision-pro-size/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/apple-vision-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-01-12T01:20:00Z",
+            "content": "Apple Vision Pro will hit stores in the US in a few weeks, but Apple is yet to reveal details about the purchasing process, available models, and customization options. However, a new report has reve… [+1336 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Benjamin Mayo",
+            "title": "Killers of the Flower Moon movie is now available to watch on Apple TV+",
+            "description": "Starring Leonardo DiCaprio, Robert DeNiro and Lily Gladstone, Killers of the Flower Moon is now available to stream and watch on Apple TV+.\n\n\n\nDirected by Martin Scorsese, the movie depicts how members of the wealthy Osage nation were murdered in a plot to ta…",
+            "url": "https://9to5mac.com/2024/01/11/killers-of-the-flower-moon-movie-watch-apple-tv/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/killers-of-the-flower-moon.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-01-12T05:00:00Z",
+            "content": "Starring Leonardo DiCaprio, Robert DeNiro and Lily Gladstone, Killers of the Flower Moon is now available to stream and watch on Apple TV+.\r\nDirected by Martin Scorsese, the movie depicts how members… [+1973 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Ordering Apple Vision Pro gets more complex with face scan",
+            "description": "Customers hoping to get one of the few Apple Vision Pro units at launch will have to jump through a few hoops first, including a face scan.Apple Vision Pro strapApple Vision Pro is a complicated product that needs various accessories sized to fit the visor to…",
+            "url": "https://appleinsider.com/articles/24/01/12/ordering-apple-vision-pro-gets-more-complex-with-face-scan",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58074-118306-Apple-Vision2-xl.jpg",
+            "publishedAt": "2024-01-12T00:22:18Z",
+            "content": "Apple Vision Pro strap\r\nCustomers hoping to get one of the few Apple Vision Pro units at launch will have to jump through a few hoops first, including a face scan.\r\nApple Vision Pro is a complicated … [+1565 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Apple quietly increased the Find My limit to 32 items",
+            "description": "The Find My items limit has increased from 16 to 32 as of iOS 16, confirmed by a recently updated support document.Find My appIt is easy to accumulate AirTags and Find My compatible devices, so Apple's previous limit of 16 items could be hit quickly for some …",
+            "url": "https://appleinsider.com/articles/24/01/12/apple-quietly-increased-the-find-my-limit-to-32-items",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58075-118314-IMG_4665-xl.jpg",
+            "publishedAt": "2024-01-12T04:12:55Z",
+            "content": "Find My app\r\nThe Find My items limit has increased from 16 to 32 as of iOS 16, confirmed by a recently updated support document.\r\nIt is easy to accumulate AirTags and Find My compatible devices, so A… [+1155 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Check out the weirdest tech from CES 2024",
+            "description": "It wouldn't be CES if there weren't companies on the show floor overcomplicating basic human needs or scaring us with freakish robots. Here's what is weird at CES 2024.Weird CES 2024The annual Consumer Electronics Show is filled with glimpses of the future in…",
+            "url": "https://appleinsider.com/articles/24/01/12/check-out-the-weirdest-tech-from-ces-2024",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58067-118313-IMG_4664-xl.jpg",
+            "publishedAt": "2024-01-12T03:36:34Z",
+            "content": "Weird CES 2024\r\nIt wouldn't be CES if there weren't companies on the show floor overcomplicating basic human needs or scaring us with freakish robots. Here's what is weird at CES 2024.\r\nThe annual Co… [+4457 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "mayumine",
+            "title": "700ドルのARグラス「XREAL Air 2 Ultra」はApple Vision Proより優れている？ #CES2024",
+            "description": "中国XREALから「XREAL Air 2 Ultra」が登場。Apple Vision Proの3,500ドル（約50万円）に対し、XREAL Air 2 Ultraは、700ドル（日本では9万9800円で発売）と手が届く価格です。レイバンのウェイファーラー風デザイン（しかもチタンフレーム）で、見た目もいい感じ！",
+            "url": "https://www.gizmodo.jp/2024/01/xreal-ar-glasses-apple-vision-pro.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/01/11/20240111_xreal.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-01-12T03:30:00Z",
+            "content": "Apple Vision Pro\r\nXREALXREAL Air 2 UltraApple Vision Pro3,50050XREAL Air 2 Ultra70099800\r\nAir 2 UltraXREALAir 2Air 2 Pro\r\n3D3D\r\nXREALNRSDK 2.2MacWindowsPCAndroidiPhone 15\r\nApple Vision Pro\r\nXREALAir … [+143 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Andy Meek",
+            "title": "Here’s a Steve Jobs story I bet you haven’t heard before – and it has an Elvis connection",
+            "description": "This month marks the 17th anniversary of Steve Jobs launching the iPhone at Macworld 2007, an occasion that’s reminded me of what might be my …\nThe post Here’s a Steve Jobs story I bet you haven’t heard before – and it has an Elvis connection appeared first o…",
+            "url": "https://bgr.com/business/heres-a-steve-jobs-story-i-bet-you-havent-heard-before-and-it-has-an-elvis-connection/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2024/01/rsz_gettyimages-76856351.jpg?quality=82&strip=all",
+            "publishedAt": "2024-01-12T00:34:00Z",
+            "content": "This month marks the 17th anniversary of Steve Jobs launching the iPhone at Macworld 2007, an occasion that’s reminded me of what might be my favorite story about the late Apple co-founder. It’s one … [+4648 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Small Business Trends"
+            },
+            "author": "Kevin Ocasio",
+            "title": "How to Spot and Avoid Credit Card Skimmers",
+            "description": "Card skimmers are usually hidden underneath a card terminal. Here's everything you need to know about credit card skimmers so you can spot and avoid them.",
+            "url": "https://smallbiztrends.com/2024/01/credit-card-skimmers.html",
+            "urlToImage": "https://media.smallbiztrends.com/2022/09/how-to-spot-and-avoid-credit-card-skimmers.png",
+            "publishedAt": "2024-01-12T01:58:43Z",
+            "content": "In the wake of data breaches at Target, Home Depot, and other retailers, its more important than ever to be vigilant about protecting your personal information. One way to do that is to be on the loo… [+15139 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "sullyphoto64@gmail.com (Terry Sullivan)",
+            "title": "Brother, can you spare a dime: Apple CEO Tim Cook got a 36% pay cut in 2023",
+            "description": "Cook's pay drops to $63 million, a recommendation that came, in part, from the CEO himself",
+            "url": "https://www.imore.com/apple/brother-can-you-spare-a-dime-apple-ceo-tim-cook-got-a-36-pay-cut-in-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/67utyUBfg3829QGoJNbM6W-1200-80.jpg",
+            "publishedAt": "2024-01-12T01:32:42Z",
+            "content": "“Once I built an Apple Watch, I made it run / Made it race against time / Once I built an Apple Watch, now it's done / Brother, can you spare a dime?” Could Apple CEO, Tim Cook, possibly be singing t… [+2101 chars]"
+        },
+{
+"source": {
+                "id": "el-mundo",
+                "name": "El Mundo"
+            },
+            "author": "JAVIER ATTARD",
+            "title": "¿Qué está pasando en Ecuador? \"Es el país más violento de América Latina\"",
+            "description": "¿Hay una guerra total contra el narco? ¿Qué hay detrás de esto? ¿Está el ejército en la calle? ¿Quiénes son los Tiguerones? ¿Y los Lobos? ¿Sale de Ecuador la mayor parte...",
+            "url": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2024/01/12/65a02f75fc6c834c2b8b45aa.html",
+            "urlToImage": "https://phantom-elmundo.unidadeditorial.es/eb1ff17c62131921bb4d12e1be92add6/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/12/17050181481825.jpg",
+            "publishedAt": "2024-01-12T00:13:15Z",
+            "content": "¿Hay una guerra total contra el narco? ¿Qué hay detrás de esto? ¿Está el ejército en la calle? ¿Quiénes son los Tiguerones? ¿Y los Lobos? ¿Sale de Ecuador la mayor parte de la droga que llega a Europ… [+434 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Marty Swant",
+            "title": "At CES, new AI tools for TVs offer new features for both content and commerce",
+            "description": "Samsung, LG, Telly and Displace all unveiled new AI integrations power viewing, advertising and shopping, and other features.",
+            "url": "http://digiday.com/media-buying/at-ces-new-ai-tools-for-tvs-offer-new-features-for-both-content-and-commerce/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2024/01/article_4_tv.gif",
+            "publishedAt": "2024-01-12T05:01:00Z",
+            "content": "Keep up to date with Digiday’s annual coverage of the Consumer Electronics Show (CES) in Las Vegas. More from the series →The current wave of AI innovation is making smart TVs smarter.At CES 2024 thi… [+5094 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Anthony Bouchard",
+            "title": "Nintendo Switch deals to help you maintain an exciting start to the new year",
+            "description": "In this piece, the iDB team showcases the best deals on Nintendo Switch games and accessories to help you into the new 2024 year.",
+            "url": "https://www.idownloadblog.com/2024/01/11/nintendo-switch-deals-part-56/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2023/04/Games-Accessories-Deals-for-Nintendo-Switch.jpg",
+            "publishedAt": "2024-01-12T00:39:44Z",
+            "content": "2024 is officially in full force starting last week, but if youre looking for ways to keep your new year on the right track, then allow us to share with you some of the best Nintendo Switch deals tha… [+4493 chars]"
+        },
+{
+"source": {
+                "id": "el-mundo",
+                "name": "El Mundo"
+            },
+            "author": "CRISTINA GALAFATE",
+            "title": "Los nietos del creador de Pilfood que facturan medio millón de euros y están en seis países con sus 'chuches saludables'",
+            "description": "Cada vez se ofertan más vitaminas en formato de gominola, pero Anton y Quim Roig Jofré fueron de los primeros con Jelly Pills. Consultor estratégico y psicólogo, respectivamente, estos hermanos con familiares farmacéuticos querían \"aportar algo a la sociedad\"…",
+            "url": "https://www.elmundo.es/vida-sana/cuerpo/2024/01/12/659e83d3e85ecebb3c8b4591.html",
+            "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0ebd2f9116c1482ac7e5ccc37a2ddb55/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/10/17048853112409.jpg",
+            "publishedAt": "2024-01-12T00:12:30Z",
+            "content": "Antes de la tabla de ejercicios, muchos neófitos en el gimnasio piden la lista de complementos alimenticios que ayudan a un mejor rendimiento. La casa por el tejado. Y eso que las vitaminas pueden se… [+5906 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Imke Rabiega",
+            "title": "Umfragehoch der AfD – was bedeuten die Zahlen?",
+            "description": "Laut einer Forsa-Umfrage ist die AfD aktuell die mit Abstand stärkste Kraft in den neuen Bundesländern. Über 30 % der Befragten in Brandenburg, Thüringen und Sachsen würden demnach AfD wählen. WELT-Nachrichtenchef Thore Barfuss ordnet die Zahlen mit Blick auf…",
+            "url": "https://www.welt.de/podcasts/article249485230/Podcast-Umfragehoch-der-AfD-was-bedeuten-die-Zahlen.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/kick-off/mobile248420738/7441355167-ci16x9-w1200/DWO-Podcast-Teaser-DbdT-Imke-Rabiega.jpg",
+            "publishedAt": "2024-01-12T03:59:21Z",
+            "content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Inside.com.tw"
+            },
+            "author": "Sisley",
+            "title": "觀眾只看串流，不上電影院了？皮克斯傳將裁員 20%",
+            "description": "迪士尼執行長鮑勃·艾格（Bob Iger）曾在財報期間指出，公司的「重組」帶來了「巨大的效率」，預計在 2024 年 Q4，Disney+ 將擺脫虧損。艾格還向投資者表示，把串流媒體變為一項可獲利成長的業務，將是 2024 年的「首要機會」。",
+            "url": "https://www.inside.com.tw/article/33894-pixar-to-undergo-layoffs-in-2024",
+            "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2024/01/dac72dfa-dcec-4c07-a375-490e88749a70.jpg?w=1200&h=630&fit=crop&auto=compress",
+            "publishedAt": "2024-01-12T02:05:00Z",
+            "content": "Thunderbolt 4NAS\r\nNASNASNASThunderbolt 4\r\n Apple Thunderbolt NASThunderbolt/NASNAS\r\nNASThunderbolt 4 2023 QNAP TVS-x74T TBS-h574TX Thunderbolt NAS \r\nTBS-h574TX Thunderbolt 4Thunderbolt 4/NAS\r\nTBS-h57… [+1006 chars]"
+        },
+{
+"source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "PABLO VILLA",
+            "title": "\"He llegado a ser futbolista gracias a los diez años que pasé en un orfanato\"",
+            "description": "En un calendario en el que se agolpan las ligas, las Supercopas y las Copas llegan dos competiciones de selecciones atípicas por su ubicación en el momento de la temporada, pero mu",
+            "url": "https://www.marca.com/radio/marca-daily/2024/01/12/65a09cd822601d48688b4578.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/bbbb09d01165a5a35dd72386e42c9ff8/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/12/17050246973271.jpg",
+            "publishedAt": "2024-01-12T05:24:14Z",
+            "content": "En un calendario en el que se agolpan las ligas, las Supercopas y las Copas llegan dos competiciones de selecciones atípicas por su ubicación en el momento de la temporada, pero muy apetecibles para … [+731 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jordan Thomas, Forbes Staff, \n Jordan Thomas, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/jordanthomas/",
+            "title": "The Best iPad Deals Right Now: Save Up To $99",
+            "description": "If you’ve been wanting to try out an iPad for a while now (or it’s simply time to upgrade your older model), you’re in luck. There are some great iPad deals happening this week.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2024/01/11/best-ipad-deals/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659ee4375685b425ecba3af4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-12T00:34:15Z",
+            "content": "Amazon\r\nIf you want a relatively inexpensive option, consider the 9th generation Apple iPad. It can handle all of the essentials like browsing, playing games, streaming videos and running your typica… [+297 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Enjoy a 27% Discount on the Apple Watch Series 8",
+            "description": "Apple’s previous-generation Apple Watch is still a great option for those who want a branded smartwatch on a budget. Today, you can get it at an even lower price- the Apple Watch Series 8 41mm GPS model is down to just $549 from its original price of $750 on …",
+            "url": "https://www.ilounge.com/news/apple-watch/enjoy-a-27-discount-on-the-apple-watch-series-8",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/01/Apple-Watch-1-1.png",
+            "publishedAt": "2024-01-12T04:48:38Z",
+            "content": "Apple’s previous-generation Apple Watch is still a great option for those who want a branded smartwatch on a budget. Today, you can get it at an even lower price- the Apple Watch Series 8 41mm GPS mo… [+695 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "ITC pushing for continued ban against Apple Watch sales",
+            "description": "The US International Trade Commission is seemingly unimpressed with Apple’s case and files to reinstate the ban on Apple Watch sales ban. The ITC formally opposed Apple’s motion for the sales ban to be lifted, claiming that the Cupertino-based company has a ‘…",
+            "url": "https://www.ilounge.com/news/apple-watch/itc-pushing-for-continued-ban-against-apple-watch-sales",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/01/Apple-Watch-2.png",
+            "publishedAt": "2024-01-12T04:44:11Z",
+            "content": "The US International Trade Commission is seemingly unimpressed with Apple’s case and files to reinstate the ban on Apple Watch sales ban.\r\nThe ITC formally opposed Apple’s motion for the sales ban to… [+780 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "macOS Sonoma 14.3 latest public beta released",
+            "description": "Apple has recently put out the latest public beta for the macOS Sonoma 14.3 ahead of the official release. The third public beta arrives one week after the second public beta was launched and is now available to download for those who want to test out the fea…",
+            "url": "https://www.ilounge.com/news/apple/macos-sonoma-14-3-latest-public-beta-released",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/01/macOS-Sonoma-14.3.png",
+            "publishedAt": "2024-01-12T04:46:40Z",
+            "content": "Apple has recently put out the latest public beta for the macOS Sonoma 14.3 ahead of the official release.\r\nThe third public beta arrives one week after the second public beta was launched and is now… [+699 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Lucas Gabriel Machado Henriques",
+            "title": "Como fazer retrospectiva do Instagram pelo PC ou celular",
+            "description": "Veja o passo a passo para criar uma retrospectiva com as principais publicações do seu perfil\nO post Como fazer retrospectiva do Instagram pelo PC ou celular apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2024/01/11/dicas-e-tutoriais/como-fazer-retrospectiva-do-instagram-pelo-pc-ou-celular/",
+            "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/capa-13-695x500.jpeg",
+            "publishedAt": "2024-01-12T00:20:00Z",
+            "content": "Para quem quer compartilhar as postagens mais populares do Instagram com os amigos, a plataforma Top 9 estÃ¡ disponÃ­vel. Veja o passo a passo para criar um resumo baseado nas estatÃ­sticas do seu pe… [+2731 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+            "title": "Hình ảnh tính năng chuyển đổi SIM vật lý thành eSIM trên Android",
+            "description": "Kênh Telegram Google News đã chia sẻ hình ảnh tuỳ chọn “Convert to eSIM”, tính năng cho phép chuyển đổi SIM vật lý trở thành eSIM, trong bản cập nhật Android 14 QRP 2 Beta 3 mới nhất. Tính năng này được phát hiện lần đầu tiên trên bản Android 14…",
+            "url": "https://tinhte.vn/thread/hinh-anh-tinh-nang-chuyen-doi-sim-vat-ly-thanh-esim-tren-android.3755560/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/01/8237903_cover-eSIM-Android-tinhte.jpg",
+            "publishedAt": "2024-01-12T01:03:27Z",
+            "content": "Kênh Telegram Google News ã chia s hình nh tu chn Convert to eSIM, tính nng cho phép chuyn i SIM vt lý tr thành eSIM, trong bn cp nht Android 14 QRP 2 Beta 3 mi nht. Tính nng này c phát hin ln u tiên… [+811 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Apoorv Rastogi",
+            "title": "Entourage Season 2 Streaming: Watch & Stream Online via HBO Max",
+            "description": "Entourage Season 2 is the second addition to this American comedy-drama series that originally premiered in 2005. In this season, the gang finishes filming on Queens Boulevard and finally returns to Los Angeles. Eric tries his best to ace his role as Vince’s …",
+            "url": "https://www.comingsoon.net/guides/news/1483102-entourage-season-2-streaming-watch-stream-online-via-hbo-max",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Untitled-design-2024-01-12T020715.971.jpg?resize=1200,630",
+            "publishedAt": "2024-01-12T02:50:10Z",
+            "content": "Entourage Season 2 is the second addition to this American comedy-drama series that originally premiered in 2005. In this season, the gang finishes filming on Queens Boulevard and finally returns to … [+3476 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Netafull.net"
+            },
+            "author": "コグレマサト",
+            "title": "Apple、時価総額で一時的にMicrosoftに抜かれる",
+            "description": "Appleが一時的に、Microsoftに時価総額を抜かれました。MacRumorsが、Microsoft Overtakes Apple as World's Most Valuable Company [U...\n投稿 Apple、時価総額で一時的にMicrosoftに抜かれる は ネタフル に最初に表示されました。",
+            "url": "https://netafull.net/apple/0143857.html",
+            "urlToImage": "https://netafull.net/wp-content/uploads/2022/03/apple-logo.jpg",
+            "publishedAt": "2024-01-12T00:00:00Z",
+            "content": "AppleMicrosoftMacRumorsMicrosoft Overtakes Apple as World's Most Valuable Company [Updated]\r\nMicrosoft today overtook Apple as the world’s most valuable public company by market value. Apple’s share … [+247 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "IDC: четвёртый квартал 2023 года стал для рынка ПК худшим сезоном с 2006 года",
+            "description": "Аналитики IDC уже подвели предварительные итоги четвёртого квартала и всего 2023 года для рынка ПК, отметив присутствие нескольких противоречивых тенденций. С одной стороны, в годовом сравнении поставки ПК в прошлом квартале сократились на 2,7 % до 67,1 млн ш…",
+            "url": "https://3dnews.ru/1098652/idc-chetvyortiy-kvartal-2023-goda-stal-dlya-rinka-pk-hudshim-sezonom-s-2006-goda",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/01/12/1098652/idc_01.jpg",
+            "publishedAt": "2024-01-12T04:16:00Z",
+            "content": "IDC 2023 , . , 2,7 % 67,1 , 2006 . , . IDC .\r\n: Intel\r\n. 2006 . , 13,9 % 259,9 . 16,5 %. , .\r\n IDC, , . 2024 Windows 10, , , IDC.\r\n: IDC\r\n, Lenovo 22,5 24 %, 3,9 %. HP Inc., 19,2 20,8 %, — 5,4 %. . D… [+243 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "William Vaillancourt",
+            "title": "Trump Seemingly Agrees With Idea Prez Can Assassinate Rivals Scot-Free",
+            "description": "Fox News\r\nDonald Trump, when asked Thursday if he agreed with his lawyers’ argument that he would be immune from prosecution if he were to order Seal Team 6 to assassinate a political opponent while president, seemed to love the concept.“You have to have immu…",
+            "url": "https://www.thedailybeast.com/trump-seemingly-agrees-with-idea-prez-can-assassinate-rivals-scot-free",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_359,w_638,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1705022292/Screen_Shot_2024-01-11_at_8.02.18_PM_yjr7ut",
+            "publishedAt": "2024-01-12T01:21:37Z",
+            "content": "Donald Trump, when asked Thursday if he agreed with his lawyers argument that he would be immune from prosecution if he were to order Seal Team 6 to assassinate a political opponent while president, … [+1753 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "Asif Iqbal Shaik",
+            "title": "Does Samsung’s new video reveal Qi2 wireless charging for Galaxy S24?",
+            "description": "It has been a few months since the new wireless charging standard—Qi2—was announced. It has been built with the help of Apple and uses magnets for secure attachment with accessories. While newer iPhones support Qi2, none of the recently announced Android smar…",
+            "url": "https://www.sammobile.com/news/samsung-galaxy-s24-qi2-wireless-charging-video-reveal/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-Book-4-Galaxy-S24-Ultra-Camera-Webcam-Continuity-720x405.jpg",
+            "publishedAt": "2024-01-12T02:43:37Z",
+            "content": "It has been a few months since the new wireless charging standardQi2was announced. It has been built with the help of Apple and uses magnets for secure attachment with accessories. While newer iPhone… [+2091 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Smhn.info"
+            },
+            "author": "芋ノ文",
+            "title": "長時間着けても安心！「Apple Vision Pro」に頭頂部サポート型ストラップが付属",
+            "description": "発売が迫るアップルのXRデバイス「Apple Vision Pro」に、頭頂部を保持する形状のストラップが付属することが判明しました。「Apple Vision Pro」は眼の前に巨大スクリーンを投影し、空間オーディオ対応。映像やゲームを楽しめるデバイスです。3D動画を再生できる...smhn.infoにアクセスすると、全文を読むことができます。",
+            "url": "https://smhn.info/202401-apple-vision-pro-band",
+            "urlToImage": "https://smhn.info/wp-content/uploads/2024/01/capture1410.jpg",
+            "publishedAt": "2024-01-12T02:18:10Z",
+            "content": "Pixel5G\r\n2023-07-22 12:14:30\r\nGoogleGoogle Pixel 6Google Pixel 7PixelPixel 7 Pro\r\nGoogle PixelGoogle Pixel 6, Google Pixel 6 Pro, Google Pixel 6a, Google Pixel 7,Google Pixel 7 Pro, Google Pixel 7a5G… [+2 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Macotakara.jp"
+            },
+            "author": "danbo",
+            "title": "Apple、機能強化とパフォーマンスが向上した「Apple Store 5.22」を配布開始",
+            "description": "Apple Store\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、App Storeにて、iPhone/iPad/Apple Watch用アプリ「Apple Store 5.22」の配布を開始しています。\n\niOS 16.0、iPadOS 16.0、watchOS 7.0以降が必要です。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト…",
+            "url": "https://www.macotakara.jp/etc/category-60/entry-45969.html",
+            "urlToImage": "https://www.macotakara.jp/archives/001/202305/495feee1e4bf131dae0ac4a45cd758356d1e68e71ee20d5b5de345e1f8afa2de.png",
+            "publishedAt": "2024-01-12T02:44:22Z",
+            "content": "AppleApp StoreiPhone/iPad/Apple WatchApple Store 5.22\r\niOS 16.0iPadOS 16.0watchOS 7.0"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Macotakara.jp"
+            },
+            "author": "danbo",
+            "title": "Appleの取締役として、エアロスペース・コープの元社長兼CEOだったWanda Austin氏が加わる。Al Gore氏、James Bell氏は退任",
+            "description": "Wanda Austin氏\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、同社の取締役として、米国の宇宙計画を支援し、将来の探査の機会を拡大することに専念する組織を率いた非営利法人エアロスペース・コープの元社長兼CEOだったWanda Austin氏が加わると発表しています。\nWanda Austin氏は、数十年にわたる科学技術の経験を生かし、イノベーションの推進と企業戦略の形成に多大な実績を残していて、女性として初…",
+            "url": "https://www.macotakara.jp/apple/entry-45967.html",
+            "urlToImage": "https://www.macotakara.jp/archives/001/202401/3c172e502ce54a0b.jpg",
+            "publishedAt": "2024-01-12T01:46:58Z",
+            "content": "AppleCEOWanda Austin\r\nWanda AustinCEO\r\n752003Al Gore2015James BellApple"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Macmagazine.com.br"
+            },
+            "author": "Douglas Nascimento",
+            "title": "Tim Cook embolsou US$63 milhões em 2023; reunião de acionistas é marcada para 28/2",
+            "description": "Em um documento publicado hoje, a Apple divulgou a data da sua reunião anual de acionistas de 2024. Ela acontecerá no dia 28 de fevereiro — novamente, na modalidade virtual. Como sempre, a reunião servirá para que sejam votadas questões apresentadas por acion…",
+            "url": "https://macmagazine.com.br/post/2024/01/11/tim-cook-embolsou-us63-milhoes-em-2023-reuniao-de-acionistas-e-marcada-para-28-2/",
+            "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2022/01/06-dinheiro-apple-1260x840.jpg",
+            "publishedAt": "2024-01-12T00:37:05Z",
+            "content": "Em um documento [PDF] publicado hoje, a Apple divulgou a data da sua reunião anual de acionistas de 2024. Ela acontecerá no dia 28 de fevereiro novamente, na modalidade virtual.\r\nComo sempre, a reuni… [+1492 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Илья Сидоров",
+            "title": "Гендиректор Apple Тим Кук заработал $63,2 млн в 2023 году",
+            "description": "Apple сообщила, что Тим Кук заработал $63,2 млн в 2023 году. Оклад главы Apple составил $3 млн. Ещё $10,7 млн он получил в виде бонусов по результатам работы и $47 млн акциями Apple в качестве премии. Также Кук получил $2,5 млн в виде других компенсаций, кото…",
+            "url": "https://www.iphones.ru/iNotes/gendirektor-apple-tim-kuk-zarabotal-632-mln-v-2023-godu-01-12-2024",
+            "urlToImage": null,
+            "publishedAt": "2024-01-12T06:01:16Z",
+            "content": "Apple , $63,2 2023 . \r\n Apple $3 . $10,7 $47 Apple . $2,5 , , , .\r\n 2023 Apple, . , $49 , - Apple."
+        },
+{
+"source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Илья Сидоров",
+            "title": "Apple рассказала, сколько вещей можно отслеживать через Локатор",
+            "description": "Apple сообщила на сайте поддержки, что в приложении Локатор на iPhone и iPad можно отслеживать до 32 вещей, которые находятся на одноименной вкладке. Раньше было ограничение до 16 элементов, но в iOS 16 компания увеличила лимит в два раза. На вкладку Вещи мож…",
+            "url": "https://www.iphones.ru/iNotes/apple-rasskazala-skolko-veshchej-mozhno-otslezhivat-cherez-lokator-01-12-2024",
+            "urlToImage": null,
+            "publishedAt": "2024-01-12T05:46:02Z",
+            "content": "Apple , iPhone iPad 32 , .\r\n 16 , iOS 16 .\r\n AirTag, Beats, MagSafe ."
+        },
+{
+"source": {
+                "id": null,
+                "name": "Platformer.news"
+            },
+            "author": "Andy Baio",
+            "title": "Why Platformer is leaving Substack",
+            "description": "every newsletter I love, from Garbage Day and Today In Tabs to Citation Needed and Ironic Sans, are moving off the Nazi-friendly platform #",
+            "url": "https://www.platformer.news/p/why-platformer-is-leaving-substack",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda659d0f-c333-4a80-a312-6370de63f061_1024x1024.png",
+            "publishedAt": "2024-01-12T02:53:13Z",
+            "content": "After much consideration, we have decided to move Platformer off of Substack. Over the next few days, the publication will migrate to a new website powered by the nonprofit, open-source publishing pl… [+24093 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "expansion.com",
+            "title": "Madame C.J. Walker, la millonaria del crecepelo",
+            "description": "Sarah Breedlove, conocida como Madame C.J. Walker, se benefició de un olfato empresarial inédito para crear hace más de un siglo a partir de un crecepelo una gran empresa con venta",
+            "url": "https://www.expansion.com/podcasts/genios-finanzas/2024/01/12/659fd3aae5fdea9b458b464f.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/b1c3ce6e902e3d7c9c79f5fa3bf4943b/f/webp/assets/multimedia/imagenes/2024/01/11/17049741087123.jpg",
+            "publishedAt": "2024-01-12T00:35:40Z",
+            "content": "Se salvó por muy poco de ser una esclava y, a cambio, creó un imperio de la cosmética cuyas ramificaciones aún perduran.Sarah Breedlove, conocida como Madame C.J. Walker, se benefició de un olfato em… [+578 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Livedoor.jp"
+            },
+            "author": "itsoku",
+            "title": "【悲報】中古スマホ売れ筋ランキングがガチでヤバすぎる",
+            "description": "1:それでも動く名無し  2024/01/08(月) 13:56:11.10 ID:j+Yh4G/cp  1位　Apple iPhone 8  2位　Apple iPhone SE2  3位　Apple iPhone XR  4位　Apple iPhone 12  5位　Apple iPhone 12 mini    【2023年12月】中古スマホ売れ筋ランキング  https://reuse-phone-wp.kitamura.",
+            "url": "http://blog.livedoor.jp/itsoku/archives/61153395.html",
+            "urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/7/5/758da59c-s.jpg",
+            "publishedAt": "2024-01-12T05:10:17Z",
+            "content": "1: 2024/01/08() 13:56:11.10 ID:j+Yh4G/cp\r\n 1Apple iPhone 8 2Apple iPhone SE2 3Apple iPhone XR 4Apple iPhone 12 5Apple iPhone 12 mini \r\n202312 https://reuse-phone-wp.kitamura.jp/smartphone/column/buyr… [+3274 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Queerty.com"
+            },
+            "author": "Editors",
+            "title": "Luke Evans & boyfriend Fran Tomas have everyone falling in love with their beautiful romance",
+            "description": "Luke Evans and boyfriend Fran Tomas are one gorgeously in love couple.",
+            "url": "https://www.queerty.com/luke-evans-boyfriend-fran-tomas-have-everyone-falling-in-love-with-their-beautiful-romance-20240111",
+            "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2024/01/gettyimages-1496486445.jpg?auto=format&auto=compress&fit=crop&gravity=50p,0p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+            "publishedAt": "2024-01-12T02:00:00Z",
+            "content": "Luke Evans and boyfriend Fran Tomas are one gorgeously in love couple.\r\nThe Welsh actor and the Spanish construction industry executive have been going strong since first being linked in May 2022.\r\nA… [+3117 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Claire Franken",
+            "title": "2023 Emmys: How to Watch the Ceremony Online Without Cable",
+            "description": "The 2023 Emmys are right around the corner. If you’re a cord-cutter hoping to tune into the annual awards ceremony, need not fret! There are plenty of ways to watch the 2023 Emmys online without cable and we’re breaking them all down below. How to Watch the 2…",
+            "url": "https://tvline.com/features/how-to-watch-2023-emmys-online-1235111331/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2023/12/@Emmy.0313.REV1-copy.jpg",
+            "publishedAt": "2024-01-12T00:11:29Z",
+            "content": "The 2023 Emmys are right around the corner. If you’re a cord-cutter hoping to tune into the annual awards ceremony, need not fret! There are plenty of ways to watch the 2023 Emmys online without cabl… [+14640 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "AdExchanger"
+            },
+            "author": "AdExchanger",
+            "title": "Disney Touts Its Clean Room Chops; Old Hollywood Can’t Work New Media",
+            "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. AdExchanger is taking the day off for Martin Luther King Jr. Day. Our daily news roundup will return on Tues., Jan. 16. The Clean Slate Disney has been talking up its data clean roo…",
+            "url": "http://www.adexchanger.com/daily-news-roundup/friday-12012024/",
+            "urlToImage": "https://live-adexchanger.pantheonsite.io/wp-content/uploads/2021/03/HI.RES_.toy_.story_.cartoon.jpg",
+            "publishedAt": "2024-01-12T05:03:14Z",
+            "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nAdExchanger is taking the day off for Martin Luther King Jr. Day. Our daily news roundup will return on Tues., Jan. 16.\r\nTh… [+4349 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Habituallychic.luxury"
+            },
+            "author": "habituallychic",
+            "title": "Eyeing, Buying, and Trying: January 2024",
+            "description": "The New Moon in Capricorn today is a great day to restart your new year and a perfect time for a little wardrobe refresh. Since I didn’t post my usual “what I bought” post for December and Paris, I thought I would combine some of the favorite things I bought …",
+            "url": "https://www.habituallychic.luxury/2024/01/eyeing-buying-and-trying-january-2024/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-12T01:53:27Z",
+            "content": "The New Moon in Capricorn today is a great day to restart your new year and a perfect time for a little wardrobe refresh. Since I didn’t post my usual “what I bought” post for December and Paris, I t… [+8793 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Daniel Eckert, Holger Zschäpitz",
+            "title": "Franken-Boost für Aktionäre und Rendite mit Risiken",
+            "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Daniel Eckert und Holger Zschäpitz über Tesla-Verkäufe bei Hertz, Gewinne bei About You und den ersten Handelstag der Bitcoin-ETFs.",
+            "url": "https://www.welt.de/podcasts/alles-auf-aktien/article249487870/Alles-auf-Aktien-Huthi-Attacken-im-Roten-Meer-Tesla-muss-Produktion-wegen-Lieferengpaessen-kuerzen.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546176/1311354567-ci16x9-w1200/eckert-zschae-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-eckert-zschaepitz-aw.jpg",
+            "publishedAt": "2024-01-12T03:58:29Z",
+            "content": "Außerdem geht es um iShares Bitcoin Trust (ISIN: US46438F1012), Tesla, New Work, Verbio, Airbus, Roche Holding, Novartis, Nestlé, Novo Nordisk, LVMH, Richemont, ABB, Sika, Holcim, Alcon, Xtrackers SL… [+854 chars]"
+        },
+{
+"source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Tasmanian winner of 'World's Ugliest Lawn' competition says her ex left with the mower",
+            "description": "Kathleen Murray's journey to claiming the World's Ugliest Lawn began in 2016 — when her ex took the lawnmower and some bandicoots decided to make it their own personal Disneyland.",
+            "url": "https://www.abc.net.au/news/2024-01-12/tasmanian-woman-claims-worlds-ugliest-lawn-title/103312950",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6752adcf40c35127e7289f480d5f4e4e?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=18&width=862&height=485",
+            "publishedAt": "2024-01-12T00:33:12Z",
+            "content": "<ul><li>In short:  A Tasmanian woman has won Sweden's World's Ugliest Lawn competition, which celebrates water conservation.</li><li>Her dry, pockmarked lawn was helped along by bandicoots who turned… [+3595 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Paul Tan's Automotive News"
+            },
+            "author": "Mohan K Ramanujam",
+            "title": "2024 CFMoto 1250TR-G debuts in Malaysia – RM88,888, 1,279 cc, 140 hp, 120 Nm torque",
+            "description": "Making its entry into Malaysia is the 2024 CFMoto 1250TR-G, priced at RM88,888 excluding road tax, insurance and registration. This sport-touring motorcycle is a first for CFMoto Malaysia in the litre-plus category and competes directly […]\nThe post 2024 CFMo…",
+            "url": "https://paultan.org/2024/01/12/20234-cfmoto-1250tr-g-debuts-in-malaysia-rm88888-1279-cc-140-hp-120-nm-torque/",
+            "urlToImage": "https://paultan.org/image/2024/01/CFMoto-TR-G-1250-2024-Malaysia-launch-3-1200x629.jpg",
+            "publishedAt": "2024-01-12T02:44:39Z",
+            "content": "Making its entry into Malaysia is the 2024 CFMoto 1250TR-G, priced at RM88,888 excluding road tax, insurance and registration. This sport-touring motorcycle is a first for CFMoto Malaysia in the litr… [+2242 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "David Vogel (dv), Alice Grosjean (jea)",
+            "title": "PODCAST - Bauernproteste: die Woche der Wut in Deutschland",
+            "description": "Die Blockaden der Landwirte stossen bei der Bevölkerung auf viel Sympathie. Auch auf der Strasse selber wurden die Bauernproteste von anderen Berufsgruppen unterstützt. Im Podcast erläutert der Korrespondent Oliver Maksan, was die heterogene Gruppe verbindet.",
+            "url": "https://www.nzz.ch/podcast/bauernprotest-in-deutschland-nzz-akzent-ld.1773922",
+            "urlToImage": "https://img.nzz.ch/2024/01/08/6a730d39-b6b5-4ce2-b270-0e6f5593487e.jpeg?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=5173,2910,x0,y137&wmark=nzz",
+            "publishedAt": "2024-01-12T04:30:00Z",
+            "content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nAm vergan… [+1291 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Reuters",
+            "title": "Wall Street little changed after inflation, labor market data",
+            "description": "In a choppy session, equities opened higher and the benchmark S&amp;P 500 (.SPX) briefly surpassed its record closing high of 4,796.56, hit in January 2022, before erasing initial gains.",
+            "url": "https://www.moneycontrol.com/news/business/markets/wall-street-little-changed-after-inflation-labor-market-data-12037851.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/08/wall-street-1-770x433.jpg",
+            "publishedAt": "2024-01-12T00:33:42Z",
+            "content": "U.S. stocks closed little changed on Thursday as news of hotter-than-expected inflation and signs of labor market strength dampened hopes for early interest rate cuts by the Federal Reserve this year… [+3673 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Stephen Shankland",
+            "title": "Smartphone Photo Color Problems? Spectricity Expects to Fix Them - CNET",
+            "description": "At CES, a startup shows a multispectral camera that fits into a smartphone.",
+            "url": "https://www.cnet.com/tech/mobile/smartphone-photo-color-problems-spectricity-expects-to-fix-them/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/2f6b145c850e6d1a13e902f8ad2f00a510cca9e1/hub/2024/01/11/753b68b4-3ba8-4ede-a41c-f31c46de8655/spectricity-color-comparison.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-01-12T00:08:13Z",
+            "content": "A startup called Spectricity hopes its special purpose camera that captures 16 different colors will mean your future phone will be able to handle the subtleties of real-world color more capably.\r\nTh… [+3830 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Jack Alban",
+            "title": "‘I don’t understand how Best Buy thinks this is either feasible or sustainable’: Best Buy customer blasts store’s new return policy after learning the hard way",
+            "description": "In a world where shopping has arguably been made more convenient for consumers than it's ever been, TikToker Doty (@nldoty) turns the camera on Best Buy's controversial new policy. With a cool 340,000 views, his video isn't just about buying a microphone, it'…",
+            "url": "https://www.dailydot.com/news/new-best-buy-return-policy/",
+            "urlToImage": "https://uploads.dailydot.com/2024/01/best-buy-return-policy-tiktok.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-01-12T04:00:00Z",
+            "content": "In a world where shopping has arguably been made more convenient for consumers than it’s ever been, TikToker Doty (@nldoty) turns the camera on Best Buy’s controversial new policy. With a cool 340,00… [+3027 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "邱 倢芯",
+            "title": "僅先準備 6~8 萬部，郭銘錤：Vision Pro 發售後會很快銷售一空",
+            "description": "蘋果執行長庫克日前正式宣布，旗下首部空間運算產品 Vision Pro 將於美國時間 2 月 2 日開賣。不過 Vision Pro 事前準備的數量相當少，可能僅有 6~8 萬部，因此很有可能開賣當天即售罄。 據中國天風證券分析師郭明錤最新的貼文指出，蘋果在 Vision Pro 開賣前僅先準備約 ...",
+            "url": "https://technews.tw/2024/01/12/kuo-vision-pro/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/06/08114059/Apple-WWDC23-event-photos-Apple-Vision-Pro.jpg",
+            "publishedAt": "2024-01-12T03:01:26Z",
+            "content": "Apple will produce 60,000 to 80,000 units of Vision Pro for the February 2 release. Since the shipment is not large, I believe that Vision Pro will sell out soon after the release.\r\nAlthough Apple ha… [+151 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Nextpit.com"
+            },
+            "author": "Jade Bryan",
+            "title": "Apple May Use Its Store App to Scan Faces for Vision Pro Sizing",
+            "description": "Apple may utilize the Store App to scan and determine Vision Pro's headband and Light Seal sizes for users. The headset may sell out fast once lauched.",
+            "url": "https://www.nextpit.com/apple-vision-pro-head-light-seal-size-scan-store-app-where-to-buy",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_WWDC_23/Screenshot_2023-06-05_at_20.52.37.png",
+            "publishedAt": "2024-01-12T03:24:41Z",
+            "content": "In-app measurement of Apple Vision Pro headband and Light Seal sizes\r\nAccording to the strings of codes discovered by Aaron Perris (via MacRumors), the application would support scanning of faces to … [+2128 chars]"
+        },
+{
+"source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT en Español\n , RT en Español",
+            "title": "Microsoft brevemente supera a Apple como empresa más valiosa del mundo",
+            "description": "La subida de las acciones de la empresa se produce en medio de un aumento de la inversión en el desarrollo de inteligencia artificial.",
+            "url": "https://actualidad.rt.com/actualidad/495413-microsoft-supera-apple-empresa-valiosa",
+            "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.01/article/65a05d0de9ff7118f110d092.jpg",
+            "publishedAt": "2024-01-12T03:09:02Z",
+            "content": "Microsoft ha superado este jueves a Apple en capitalización bursátil convirtiéndose durante parte de la jornada en la empresa más valiosa del mundo por primera vez desde 2021.\r\nCasi inmediatamente de… [+1485 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 回环式运动 2749元",
+            "description": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 回环式运动 2749元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/101922461/",
+            "urlToImage": "https://y.zdmimg.com/202309/13/650128bac72b22138.jpg_d250.jpg",
+            "publishedAt": "2024-01-12T02:39:58Z",
+            "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 iPhone 15 Pro 5G手机 6548元",
+            "description": "Apple 苹果 iPhone 15 Pro 5G手机 6548元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/101921194/",
+            "urlToImage": "https://qny.smzdm.com/202309/13/6500b101c43396167.png_d250.jpg",
+            "publishedAt": "2024-01-12T00:55:01Z",
+            "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 凛蓝色 回环式运动表带 2749元（需用券）",
+            "description": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 凛蓝色 回环式运动表带 2749元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/101921007/",
+            "urlToImage": "https://qny.smzdm.com/202401/12/65a082706445e5245.jpg_d250.jpg",
+            "publishedAt": "2024-01-12T00:55:01Z",
+            "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 蓝色钛金属 8499元",
+            "description": "京东自营百亿补贴8499",
+            "url": "https://www.smzdm.com/p/101921076/",
+            "urlToImage": "https://qny.smzdm.com/202309/13/65017298a18ea8225.jpg_d250.jpg",
+            "publishedAt": "2024-01-12T01:37:23Z",
+            "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Pausaparafeminices.com"
+            },
+            "author": "Bruna Tavares",
+            "title": "Bezpłatne Spiny Z brakiem microgaming Gry automatów automatów Depozytu Zbyt Rejestrację Niemcy",
+            "description": "Content Odbierz Reload Bonus Z 70 Free Spins Po Hotslots Bezpłatne Spiny Po Naszych Kasynach Darmowe Spiny W Secret Of Christmas W Betsson Darmowe Spiny W celu Nowych Zawodników W ciągu Przechowanie Graj Przy Ruletkę Online Jak i również Otrzymaj Chociażby 20…",
+            "url": "https://www.pausaparafeminices.com/ppf/bezplatne-spiny-z-brakiem-microgaming-gry-automatow-automatow-depozytu-zbyt-rejestracje-niemcy/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-12T01:05:27Z",
+            "content": "Najczciej wiele portali w niniejszym wasny strona podaje specjalne kody bonusowe albo linki otwarcie prowadzce do odwiedzenia ukrytej propozycji. Owo nadzwyczaj zasadnicze, poniewa najczciej nie wyda… [+4789 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Glenn CHAPMAN",
+            "title": "E-bike Craze In High Gear At CES Gadget Fest",
+            "description": "Electric bicycle makers at CES touted slick features like ChatGPT as they rode a trend of people wanting to enjoy a breeze in their face without sweat on their brow.",
+            "url": "https://www.ibtimes.com/e-bike-craze-high-gear-ces-gadget-fest-3721928",
+            "urlToImage": "https://d.ibtimes.com/en/full/4505898/man-walks-past-e-bike-mirage-resort-during-consumer-electronics-show-ces-las-vegas.jpg",
+            "publishedAt": "2024-01-12T01:51:25Z",
+            "content": "Electric bicycle makers at CES touted slick features like ChatGPT as they rode a trend of people wanting to enjoy a breeze in their face without sweat on their brow.\r\nSome 44 million \"e-bikes\" were s… [+2974 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Mobilelaby.com"
+            },
+            "author": "Yusuke Sakakura",
+            "title": "Android 15でロック画面ウィジェットが復活か",
+            "description": "3行まとめ<ul><li> Androidロック画面ウィジェットが再導入される可能性がある。\n<li> Googleでは、スワイプでアクセス可能な「共同スペース」という機能を開発中。\n<li> 具体的な発表は、Google I/O 2024で行われる予定です。</li></li></li></ul>\r\n\n\nAndroidで最も息の長い機能の1つであるウィジェット機能。iPhoneがウィジェット機能をサポートしたのは2020年のことですが、その10年以上も前からAndroidはウィジェット機能を提供しており、かつて…",
+            "url": "https://mobilelaby.com/blog-entry-lock-screen-widgets-may-return-in-android-15.html",
+            "urlToImage": "https://mobilelaby.com/wp/wp-content/uploads/lock-screen-widgets-may-return-in-android-15.jpg",
+            "publishedAt": "2024-01-12T01:28:56Z",
+            "content": "3<ul><li> Android\r\n</li><li> Google\r\n</li><li> Google I/O 2024</li></ul>\r\nAndroid1iPhone202010AndroidiPhoneAndroid\r\nAppleiOS 17AndroidiOS 16\r\nAndroidGoogle10\r\nAndroid2012Android 4.2 Jelly Bean\r\n22014… [+243 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Kyle Porter",
+            "title": "2024 Sony Open leaderboard, scores: Cam Davis surges late in Round 1 to take lead at Waialae",
+            "description": "Davis leads by two strokes after his 62 Thursday and two stars returned from injury at the second event of the year",
+            "url": "https://www.cbssports.com/golf/news/2024-sony-open-leaderboard-scores-cam-davis-surges-late-in-round-1-to-take-lead-at-waialae/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/12/cb8bf7df-99ee-4636-b7b9-ef681bda53a2/thumbnail/1200x675/c10329630168fb95241cdf0eb1d20db5/cam-davis-2024-sony.jpg",
+            "publishedAt": "2024-01-12T04:48:30Z",
+            "content": "In the second of two consecutive Hawaii events for the PGA Tour, a couple of superstars struggled, a (very) recent winner is trying to pick off another victory and an underrated big hitter leads afte… [+5136 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "SO FOOT"
+            },
+            "author": "Maxime MARCHON",
+            "title": "Podcast Alternative Football Episode 39 sur l’engagement sociétal des footballeurs avec le milieu de terrain de Mayence Josuha Guilavogui, international français à l’origine d’une fondation en Guinée",
+            "description": "Entretien sur le sujet avec l'international français Josuha Guilavogui, à la tête de sa fondation.",
+            "url": "https://www.sofoot.com/articles/podcast-alternative-football-episode-39-sur-lengagement-societal-des-footballeurs-avec-le-milieu-de-terrain-de-mayence-josuha-guilavogui-international-francais-a-lorigine-dune-fondation-en-guin",
+            "urlToImage": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2024/01/11114945/272A5456-1-edited-scaled-1-1400x788.jpg",
+            "publishedAt": "2024-01-12T06:00:58Z",
+            "content": "Par Maxime MARCHONle Vendredi 12 Janvier à 07:00Article modifié le Jeudi 11 Janvier à 21:24\r\nLe football est un jeu simple, dont beaucoup parlent, mais un univers complexe que peu connaissent vraimen… [+1443 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Fast Company"
+            },
+            "author": "Mark Sullivan",
+            "title": "Apple says its Vision Pro is ‘spatial computing,’ not VR",
+            "description": "Apple is asking its developers and partners to describe its forthcoming Vision Pro headset as a “spatial computing” device—a smart move that allows the company to sidestep the tedious AR-VR-XR nomenclature.\n\n\n\nFor years “virtual reality” has been used to desc…",
+            "url": "https://www.fastcompany.com/91009287/apple-says-its-vision-pro-is-spatial-computing-not-vr",
+            "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2024/01/p-1-91009287-apple-says-its-vision-pro-is-spatial-computing-not-vr.jpg",
+            "publishedAt": "2024-01-12T00:00:00Z",
+            "content": "Apple is asking its developers and partners to describe its forthcoming Vision Pro headset as a “spatial computing” device—a smart move that allows the company to sidestep the tedious AR-VR-XR nomenc… [+2727 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "PC Games"
+            },
+            "author": "Christian Fussy",
+            "title": "Monarch: Legacy of Monsters Folge 10 Kritik: Godzilla Minus Fun",
+            "description": "Die Godzilla-Serie kommt in Folge 10 zu einem vorläufigen Ende Bringt das Finale noch einmal Nervenkitzel und große Emotionen? Achtung: Es folgen kleine Spoiler.",
+            "url": "https://www.pcgames.de/Monarch-Legacy-of-Monsters-Serie-280054/Tests/Serie-kritik-Godzilla-Kurt-Russell-Serie-Apple-TV-1437949/",
+            "urlToImage": "https://www.pcgames.de/screenshots/medium/2023/11/Monarch_Legacy_of_Monsters_Photo_010104-pc-games.jpg",
+            "publishedAt": "2024-01-12T05:00:00Z",
+            "content": "Episode 10 der Godzilla-Serie Monarch: Legacy of Monsters beginnt mal wieder mit einem nervigen Film-Klischee: Cate (Anna Sawai) steht in der Hohlerde plötzlich ihrer Großmutter Keiko (Mari Yamamoto)… [+4782 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Sopitas.com"
+            },
+            "author": "Andrés Vilchis",
+            "title": "Nominados, fecha y dónde ver la ceremonia de los premios Emmy",
+            "description": "Que no se les olvide que se nos deben una premiación del 2023, eh… Luego de varios meses de espera, por fin se realizarán los premios...\nThe post Nominados, fecha y dónde ver la ceremonia de los premios Emmy appeared first on Sopitas.com.",
+            "url": "https://www.sopitas.com/cine-y-tv/transmision-fecha-nominados-todo-donde-ver-premios-emmy/",
+            "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/01/transmision-fecha-nominados-todo-donde-ver-premios-emmy-1.jpg",
+            "publishedAt": "2024-01-12T02:12:03Z",
+            "content": "Lo que necesitas saber:\r\nYa está todo listo para los premios Emmy. Te dejamos toda la info para que no te pierdas la ceremonia de este 2024.\r\nQue no se les olvide que se nos deben una premiación del … [+3825 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Theeconomiccollapseblog.com"
+            },
+            "author": "Michael",
+            "title": "We Are Witnessing A Tsunami Of Economic Suffering All Over America",
+            "description": "Many among the elite don’t really care that tens of millions of Americans on the bottom of the economic food chain are deeply suffering right now.  It is being reported that approximately 93 percent of all stock market wealth held by U.S. households is contro…",
+            "url": "http://theeconomiccollapseblog.com/we-are-witnessing-a-tsunami-of-economic-suffering-all-over-america/",
+            "urlToImage": "http://theeconomiccollapseblog.com/wp-content/uploads/2024/01/Economic-Suffering-Pixabay.jpg",
+            "publishedAt": "2024-01-12T03:16:18Z",
+            "content": "Many among the elite don’t really care that tens of millions of Americans on the bottom of the economic food chain are deeply suffering right now.  It is being reported that approximately 93 percent … [+7714 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": null,
+            "title": null,
+            "description": "Política de software público recebeu críticas de grandes empresas à época, mas modelo triunfou",
+            "url": "https://www1.folha.uol.com.br/tec/2024/01/o-brasileiro-que-desafiou-a-microsoft-e-virou-icone-internacional-de-ativistas.shtml",
+            "urlToImage": "https://f.i.uol.com.br/fotografia/2024/01/03/17043119816595bcad4fac9_1704311981_3x2_lg.jpg",
+            "publishedAt": "2024-01-12T01:08:12Z",
+            "content": "O Brasil é citado por intelectuais críticos às big techs (gigantes de tecnologia como Google e Meta) como um país historicamente mais resistente ao lobby desses gigantes corporativos que os Estados U… [+8737 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Android Headlines"
+            },
+            "author": "Abhinav Anand",
+            "title": "Apple wants visionOS devs to avoid two terms: it’s AR and VR",
+            "description": "Apple Vision Pro is coming very soon; pre-orders begin on January 19, and it will hit shelves in the US on February 2. If that’s not all, it is also tipped to sell like hotcakes. It runs on Apple’s upcoming visionOS, especially for Apple Vision Pro. Now, let’…",
+            "url": "https://www.androidheadlines.com/2024/01/apple-wants-visionos-devs-to-avoid-two-terms-its-ar-and-vr.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Apple-Vision-Pro.jpg",
+            "publishedAt": "2024-01-12T00:21:29Z",
+            "content": "Apple Vision Pro is coming very soon; pre-orders begin on January 19, and it will hit shelves in the US on February 2. If thats not all, it is also tipped to sell like hotcakes. It runs on Apples upc… [+1846 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Android Headlines"
+            },
+            "author": "Arthur Brown",
+            "title": "The best accessories o f CES 2024",
+            "description": "CES 2024 saw a ton of innovative devices being showcased that wowed attendees. Along with these devices, we also saw a great many accessories show up. These accessories are also innovative. So, we’re not going to forget about them. Here’s a rundown of the bes…",
+            "url": "https://www.androidheadlines.com/best-accessories-ces-2024.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/01/Nanoleaf-skylight-award-jpg.webp",
+            "publishedAt": "2024-01-12T02:00:55Z",
+            "content": "CES 2024 saw a ton of innovative devices being showcased that wowed attendees. Along with these devices, we also saw a great many accessories show up. These accessories are also innovative. So, were … [+5996 chars]"
+        },
+{
+"source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Jan Cronje",
+            "title": "News24 | SAP bribes: Software giant paid for SA govt officials to play golf in New York",
+            "description": "The German software giant has agreed to pay back R2.2 billion to SA government entities for paying bribes to win lucrative contracts.",
+            "url": "https://www.news24.com/fin24/companies/sap-bribes-software-giant-paid-for-sa-govt-officials-to-play-golf-in-new-york-20240112",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7433/e16b2b558ea741d4812d368d162f16fb.jpg",
+            "publishedAt": "2024-01-12T03:10:46Z",
+            "content": "German software giant SAP, which has admitted to bribing SA officials to win contracts, paid for government workers to travel to New York to play golf in 2015, documents show. \r\nIn May and September … [+271 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Mother Beverage (Poppi) Shark Tank – Founder, Net Worth and Investment",
+            "description": "Welcome to our article on Mother Beverage, also known as Poppi, a healthy soda brand that made waves on Shark Tank. Founded by Stephen and Allison, Mother Beverage (Poppi) offers a range of sparkling fruit beverages infused with natural ingredients and probio…",
+            "url": "https://zacjohnson.com/mother-beverage-poppi-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Mother-Beverage-Poppi-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T03:19:38Z",
+            "content": "Welcome to our article on Mother Beverage, also known as Poppi, a healthy soda brand that made waves on Shark Tank. Founded by Stephen and Allison, Mother Beverage (Poppi) offers a range of sparkling… [+40284 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "McClary Bros Shark Tank – Founder, Net Worth, and Investment",
+            "description": "McClary Bros is a notable company that specializes in producing raw, unpasteurized organic drinking vinegar. Founded by Jess Sanchez-McClary in 2012, McClary Bros gained nationwide attention when they appeared on season 7 of Shark Tank USA in 2015. During the…",
+            "url": "https://zacjohnson.com/mcclary-bros-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/McClary-Bros-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T02:51:01Z",
+            "content": "McClary Bros is a notable company that specializes in producing raw, unpasteurized organic drinking vinegar. Founded by Jess Sanchez-McClary in 2012, McClary Bros gained nationwide attention when the… [+17882 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Ora Organics Shark Tank – Founder, Net Worth, and Investment",
+            "description": "Ora Organics, a plant-based nutrition company, made waves when it appeared on the hit TV show Shark Tank. The founders, Ron Chang, Will Smelko, and Erica Bryers, presented their line of organic supplements and meal replacement products to a panel of esteemed …",
+            "url": "https://zacjohnson.com/ora-organics-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Ora-Organics-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T04:34:58Z",
+            "content": "Ora Organics, a plant-based nutrition company, made waves when it appeared on the hit TV show Shark Tank. The founders, Ron Chang, Will Smelko, and Erica Bryers, presented their line of organic suppl… [+25861 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Peaceful Fruits Shark Tank – Founder, Net Worth and Investment",
+            "description": "Welcome to our article on Peaceful Fruits, a socially responsible brand that is revolutionizing the snack industry with its organic and sustainable fruit snacks. Founded by Evan Delahanty, a former Peace Corps volunteer, Peaceful Fruits aims to provide nutrit…",
+            "url": "https://zacjohnson.com/peaceful-fruits-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Peaceful-Fruits-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T05:17:20Z",
+            "content": "Welcome to our article on Peaceful Fruits, a socially responsible brand that is revolutionizing the snack industry with its organic and sustainable fruit snacks. Founded by Evan Delahanty, a former P… [+18212 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Mush Foods Shark Tank – Founder, Net Worth and Investment",
+            "description": "Welcome to our article on Mush Foods, a successful food start-up that made waves after appearing on the popular TV show Shark Tank. In this section, we will dive into the details of Mush Foods’ founder, net worth, and investment. So, let’s get started! Key Ta…",
+            "url": "https://zacjohnson.com/mush-foods-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Mush-Foods-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T03:29:45Z",
+            "content": "Welcome to our article on Mush Foods, a successful food start-up that made waves after appearing on the popular TV show Shark Tank. In this section, we will dive into the details of Mush Foods’ found… [+22653 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Oatmeals Shark Tank – Founder, Net Worth, and Investment",
+            "description": "If you’re a fan of the hit TV show Shark Tank, you may have seen OatMeals featured in Season 10. This innovative oatmeal company caught the attention of the sharks with its delicious and healthy oatmeal creations. Let’s take a closer look at the founder, net …",
+            "url": "https://zacjohnson.com/oatmeals-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Oatmeals-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T04:25:55Z",
+            "content": "If you’re a fan of the hit TV show Shark Tank, you may have seen OatMeals featured in Season 10. This innovative oatmeal company caught the attention of the sharks with its delicious and healthy oatm… [+19383 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "PC Classes Online Shark Tank – Founder, Net Worth and Investment",
+            "description": "Welcome to our article about PC Classes Online’s appearance on Shark Tank. In this section, we will delve into the founder, net worth, and investment details of this popular online education platform. Key Takeaways: PC Classes Online is a subscription-based o…",
+            "url": "https://zacjohnson.com/pc-classes-online-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/PC-Classes-Online-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T05:12:18Z",
+            "content": "Welcome to our article about PC Classes Online’s appearance on Shark Tank. In this section, we will delve into the founder, net worth, and investment details of this popular online education platform… [+22703 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Mr. Tod’s Pie Factory Shark Tank – Founder, Net Worth and Investment",
+            "description": "Welcome to our article on Mr. Tod’s Pie Factory and its founder, Tod Wilson. In this article, we will explore how Mr. Tod’s Pie Factory made waves on the hit TV show Shark Tank, as well as delve into the net worth and investment history of this beloved pie br…",
+            "url": "https://zacjohnson.com/mr-tods-pie-factory-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Mr.-Tods-Pie-Factory-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T03:22:11Z",
+            "content": "Welcome to our article on Mr. Tod’s Pie Factory and its founder, Tod Wilson. In this article, we will explore how Mr. Tod’s Pie Factory made waves on the hit TV show Shark Tank, as well as delve into… [+24017 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Misfit Foods Shark Tank – Founder, Net Worth and Investment",
+            "description": "Misfit Foods, a healthy food start-up, has gained recognition as a sustainable food business after its appearance on the hit show Shark Tank. Founded by Phil Wong, the company offers innovative food products that tackle important issues such as food waste red…",
+            "url": "https://zacjohnson.com/misfit-foods-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Misfit-Foods-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T03:01:33Z",
+            "content": "Misfit Foods, a healthy food start-up, has gained recognition as a sustainable food business after its appearance on the hit show Shark Tank. Founded by Phil Wong, the company offers innovative food … [+19848 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Tyson Chandler Net Worth – How Much is Tyson Chandler Worth?",
+            "description": "Tyson Chandler, a renowned NBA player, has amassed significant wealth throughout his illustrious career. With numerous lucrative contracts and endorsement deals, Chandler’s net worth stands at an impressive $50 million. Known for his defensive skills and lead…",
+            "url": "https://zacjohnson.com/tyson-chandler-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/tyson-chandler-net-worth.jpg",
+            "publishedAt": "2024-01-12T00:25:48Z",
+            "content": "Tyson Chandler, a renowned NBA player, has amassed significant wealth throughout his illustrious career. With numerous lucrative contracts and endorsement deals, Chandler’s net worth stands at an imp… [+20324 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Noah Wyle Net Worth – How Much is Noah Wyle Worth?",
+            "description": "Have you ever wondered about the net worth of Noah Wyle, the talented American actor? Well, you’re in the right place! In this article, we’ll delve into Noah Wyle’s earnings, salary, and give you a glimpse into his incredible career and financial success. Key…",
+            "url": "https://zacjohnson.com/noah-wley-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/noah-wley-net-worth.jpg",
+            "publishedAt": "2024-01-12T01:59:30Z",
+            "content": "Have you ever wondered about the net worth of Noah Wyle, the talented American actor? Well, you’re in the right place! In this article, we’ll delve into Noah Wyle’s earnings, salary, and give you a g… [+14564 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Tom Hanks Today Net Worth – How Much is Tom Hanks Worth Today?",
+            "description": "Tom Hanks is a highly acclaimed Hollywood actor, known for his exceptional talent and wide range of roles. With a career spanning over four decades, Hanks has achieved immense success and amassed a significant net worth. As of 2021, Tom Hanks’ net worth is es…",
+            "url": "https://zacjohnson.com/tom-hanks-today-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/tom-hanks-today-net-worth.jpg",
+            "publishedAt": "2024-01-12T02:48:30Z",
+            "content": "Tom Hanks is a highly acclaimed Hollywood actor, known for his exceptional talent and wide range of roles. With a career spanning over four decades, Hanks has achieved immense success and amassed a s… [+20977 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Ronnie O’Sullivan Net Worth – How Much is Ronnie O’Sullivan Worth?",
+            "description": "Ronnie O’Sullivan, the legendary snooker player, has accumulated a net worth of approximately £14 million. Over the course of his career, which began in 1992, Ronnie has earned more than £8.5 million in prize money. Notably, his most financially successful ye…",
+            "url": "https://zacjohnson.com/ronnie-oullivan-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/ronnie-oullivan-net-worth.jpg",
+            "publishedAt": "2024-01-12T00:38:53Z",
+            "content": "Ronnie O’Sullivan, the legendary snooker player, has accumulated a net worth of approximately £14 million. Over the course of his career, which began in 1992, Ronnie has earned more than £8.5 million… [+19818 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Laurie Berkner Net Worth – How Much is Laurie Berkner Worth?",
+            "description": "Laurie Berkner is a highly successful children’s music star who has garnered significant financial success throughout her career. Her estimated net worth is $3 million, according to Celebrity Net Worth. However, other sources report varying figures, such as N…",
+            "url": "https://zacjohnson.com/laurie-berkner-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/laurie-berkner-net-worth.jpg",
+            "publishedAt": "2024-01-12T00:51:08Z",
+            "content": "Laurie Berkner is a highly successful children’s music star who has garnered significant financial success throughout her career. Her estimated net worth is $3 million, according to Celebrity Net Wor… [+19123 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "Nuchas Shark Tank – Founder, Net Worth and Investment",
+            "description": "Nuchas, the renowned empanada company, captured the attention of audiences when they appeared on the hit entrepreneurial show Shark Tank. Led by founder Ariel Barbouth, Nuchas has experienced remarkable growth and success since its inception in 2009. During t…",
+            "url": "https://zacjohnson.com/nuchas-shark-tank/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/Nuchas-Shark-Tank.jpg",
+            "publishedAt": "2024-01-12T04:18:09Z",
+            "content": "Nuchas, the renowned empanada company, captured the attention of audiences when they appeared on the hit entrepreneurial show Shark Tank. Led by founder Ariel Barbouth, Nuchas has experienced remarka… [+18888 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Zacjohnson.com"
+            },
+            "author": "Zac Johnson",
+            "title": "R. Kelly Net Worth – How Much is R. Kelly Worth?",
+            "description": "R. Kelly, once hailed as one of the most successful R&B artists of his time, has faced a significant downfall in terms of his finances. His net worth, which was once estimated to be in the tens of millions, or even upwards of $100 million, has now plunged to …",
+            "url": "https://zacjohnson.com/rkelly-net-worth/",
+            "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/rkelly-net-worth.jpg",
+            "publishedAt": "2024-01-12T05:20:13Z",
+            "content": "R. Kelly, once hailed as one of the most successful R&amp;B artists of his time, has faced a significant downfall in terms of his finances. His net worth, which was once estimated to be in the tens o… [+16742 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Randy Johnson",
+            "title": "Gable Steveson won't wrestle for Gophers this season",
+            "description": "The WWE prefers that Olympic gold medalist and two-time NCAA champion Gable Steveson focus on his pro wrestling career, Gophers coach Brandon Eggum said.",
+            "url": "https://www.startribune.com/gable-steveson-wont-wrestle-for-gophers-this-season-wwe/600334294/",
+            "urlToImage": "https://chorus.stimg.co/25220534/08_05UMAT021222.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2024-01-12T00:46:29Z",
+            "content": "The on-again, off-again chance of Gable Steveson using his final season of eligibility with the Gophers wrestling team is off for the 2024 season.\r\nGophers coach Brandon Eggum said during a video pos… [+1704 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Worldsoccertalk.com"
+            },
+            "author": "World Soccer Talk",
+            "title": "Where to watch Hull City vs Norwich City on US TV",
+            "description": "Here are all of the details of where you can watch Hull City vs Norwich City on US television and via legal streaming: WHO Hull City vs Norwich City WHAT EFL Championship WHEN 3:00pm ET / 12:00pm PT • Friday, January 12, 2024 WHERE ESPN+ STREAM WATCH NOW With…",
+            "url": "https://worldsoccertalk.com/tv/where-to-watch-hull-city-vs-norwich-city-on-us-tv-20240112-WST-482410.html",
+            "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240112_WST_482410_hull-norwich-efl.jpg[ampersand]width=1200[ampersand]height=740",
+            "publishedAt": "2024-01-12T05:00:00Z",
+            "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+        },
+{
+"source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Mark Gurman, Bloomberg",
+            "title": "Apple undergoes its biggest board shakeup in years as 2 longtime directors depart, including Al Gore",
+            "description": "Gore was the longest-serving member — having joined in 2003, when co-founder Steve Jobs was CEO and the iPhone didn’t yet exist.",
+            "url": "https://fortune.com/2024/01/11/apple-board-shakeup-al-gore/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1693838000-e1705018089470.jpg?resize=1200,600",
+            "publishedAt": "2024-01-12T00:12:32Z",
+            "content": "In one of Apple Inc.s biggest board shake-ups in years, longtime directors Al Gore and James Bell will be retiring from the company, with former Aerospace Corp. Chief Executive Officer Wanda Austin c… [+3010 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "CES-2024. Samsung показала новые телевизоры Neo QLED, OLED, дисплеи MICRO LED и интерьерные устройства",
+            "description": "В рамках выставки CES-2024 Samsung Electronics представила новые модели своих телевизоров QLED и OLED, дисплеев MICRO LED, а также серию интерьерных устройств.",
+            "url": "https://rg.ru/2024/01/12/ces-2024-samsung-pokazala-novye-televizory-neo-qled-oled-displei-micro-led-i-interernye-ustrojstva.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2024/01/12/ces-2024-display_5c7.jpg",
+            "publishedAt": "2024-01-12T04:43:05Z",
+            "content": "\" Samsung, -, , , , , \", - , Samsung Newsroom.\r\n, OLED- S90D S85D 42 83 , S95D, OLED- , - 77 . , , . .\r\n Neo QLED 8K Neo QLED 4K , : , , , 8. , Neo QLED NQ8 AI Gen3.\r\n MICRO LED, , , . , , .\r\n . , Th… [+91 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Applelinkage.com"
+            },
+            "author": "Al",
+            "title": "「Apple Vision Pro」、Apple Storeアプリで顔をスキャンして最適サイズを選択可能に",
+            "description": "MacRumorsが、「Apple Vision Pro」をオンラインで注文する際に、Apple Storeアプリで顔をスキャンして最適なサイズを選択できるようになるようだと伝えています。 アーロン・ペリス氏によると、A … 続きを読む 「Apple Vision Pro」、Apple Storeアプリで顔をスキャンして最適サイズを選択可能に →",
+            "url": "https://www.applelinkage.com/2024/01/12/apple-store-app-to-scan-face-to-pick-the-right-apple-vision-pro-size/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-12T01:39:28Z",
+            "content": "MacRumorsApple Vision ProApple Store\r\nApple StoreApple Vision Pro\r\nApple Vision Pro119522"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": "ytzong",
+            "title": "需要人脸扫描流程 订购苹果Vision Pro变得更加复杂",
+            "description": "代码显示，希望获得为数不多的 Apple Vision Pro 的用户还必须先通过几道关卡，包括脸部扫描。Apple Vision Pro\n是一款复杂的产品，需要各种配件的尺寸合拍才能将遮阳板与用户的脸部贴合。因此，苹果将要求用户在订购时通过Apple\nStore的应用程序对自己的面部进行 3D 扫描，以便准确测量。\r\n\nApple Store 应用程序中已经出现了脸部扫描的代码，其中包括这样的文字：\"您可以扫描您的脸部以确定 Apple Vision Pro 的尺寸\"。这种扫描可能不是强制性的，但它为用户提供的…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1410827.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2024/0112/a39d262eb3191ff.jpg",
+            "publishedAt": "2024-01-12T02:37:07Z",
+            "content": "Apple Store \" Apple Vision Pro \"\r\nSolo Knit BandDual Loop Band\r\nVision Pro 1 19 iPhone Apple Store \r\nMing-Chi Kuo2 2 60000-80000 \r\n 1 19 iPhone \r\n Vision Pro 1 19 2 2 3499 256GB"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Hurriyet Daily News"
+            },
+            "author": "hurriyetdailynews.com",
+            "title": "Microsoft briefly overtakes Apple as world's most valuable firm",
+            "description": "Microsoft briefly dethroned its rival Apple to become the world's most valuable company Thursday, illustrating the contrast between a firm driven by artificial intelligence and another whose iPhone sales are a cause for concern.",
+            "url": "https://www.hurriyetdailynews.com/microsoft-briefly-overtakes-apple-as-worlds-most-valuable-firm-189611",
+            "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/65a0cdb501672dff2ee33bbd.jpg",
+            "publishedAt": "2024-01-12T05:27:23Z",
+            "content": "NEW YORK\r\nMicrosoft briefly dethroned its rival Apple to become the world's most valuable company Thursday, illustrating the contrast between a firm driven by artificial intelligence and another whos… [+1964 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Techweb.com.cn"
+            },
+            "author": "小小",
+            "title": "郭明錤：苹果Vision Pro初期备货6至8万台，上市后可能很快售罄",
+            "description": "1月12日消息，天风国际证券（TF International Securities）的分析师郭明錤周四称，苹果的首款混合现实头显Vision Pro在上市初期可能会供不应求。郭明錤在社交媒体上说，苹果计划2月2日正式发售这款产品，起售价为3499美元。然而，由于生产规模相对较小，只计划出货6万至8万台，他预测Vision Pro将会在短时间内售罄。相比之下，苹果每年通常能卖出约2.25亿部iPhone。作为苹果供应链的顶级分析师，郭明錤的预测凸显了苹果这款主打产品可能面临的供需紧张局面。去年夏天，苹果发布了Vi…",
+            "url": "https://www.techweb.com.cn/it/2024-01-12/2939539.shtml",
+            "urlToImage": "https://upload1.techweb.com.cn/s/120/imgs/2024/0112/1705020121370.jpg",
+            "publishedAt": "2024-01-12T00:42:10Z",
+            "content": "112TF International SecuritiesVision Pro\r\n22349968Vision Pro2.25iPhone\r\nVision Pro2Vision Pro\r\nVision Pro\r\nVision ProVision Pro3D\r\nVision Pro68\r\nVision Pro\r\n2014Apple WatchVision Pro\r\nVision ProVisio… [+4 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Vanessa Serna",
+            "title": "Selena Gomez’s inner circle reportedly thinks Benny Blanco romance could be ‘long-lasting’: She’s ‘very at home’",
+            "description": "The \"Only Murders in the Building\" star and the music producer went public with their relationship in December 2023 after dating in secret for six months.",
+            "url": "https://pagesix.com/2024/01/11/entertainment/selena-gomezs-inner-circle-thinks-benny-blanco-romance-could-be-long-lasting-report/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/74725168.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-01-12T00:22:54Z",
+            "content": "The heart wants what it wants.\r\nSelena Gomez’s close friends reportedly believe she and Benny Blanco are in it for the long haul.\r\n“[She] feels very at home and at ease with Benny,” an insider told “… [+2748 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Luis Joshua Gutierrez",
+            "title": "Exorcist Sequel Loses Director David Gordon-Green",
+            "description": "The Exorcist: Deceiver has hit a bump in the road and has lost David Gordon Green as the film's director. Because Green departs from the film, it's unclear when the movie will be released.Thanks to The Hollywood Reporter, we know that Green had recently seeme…",
+            "url": "https://www.gamespot.com/articles/exorcist-sequel-loses-director-david-gordon-green/1100-6520291/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4245073-4202247-theexorcistbeliever.jpg",
+            "publishedAt": "2024-01-12T00:05:00Z",
+            "content": "The Exorcist: Deceiver has hit a bump in the road and has lost David Gordon Green as the film's director. Because Green departs from the film, it's unclear when the movie will be released.\r\nThanks to… [+1281 chars]"
+        }
+    ]
+}
+
+
